@@ -1,2 +1,0 @@
-# scripts
-My custom scripts 
